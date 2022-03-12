@@ -12,4 +12,7 @@ Modélisation et programmation par objets
 
 ## TD/TP 7 et 9 mars
 
+[https://github.com/laitlito/HA8403I/tree/main/Additifs](https://github.com/laitlito/HA8403I/tree/main/Additifs)
+
+
 ## TD/TP 14 et 16 mars
