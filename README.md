@@ -19,5 +19,5 @@ Modélisation et programmation par objets
 
 
 
-## License
+# License
 [MIT](https://choosealicense.com/licenses/mit/)
