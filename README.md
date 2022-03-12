@@ -6,6 +6,8 @@ Modélisation et programmation par objets
 
 ## TD/TP 7 et 9 février
 
+[https://github.com/laitlito/HA8403I/tree/main/Etudiant]
+
 ## TD/TP 14 et 16 février
 
 ## TD/TP 21 et 23 février
@@ -15,3 +17,5 @@ Modélisation et programmation par objets
 
 
 ## TD/TP 14 et 16 mars
+
+[https://github.com/laitlito/HA8403I/tree/main/Etudiant]
