@@ -16,3 +16,8 @@ Modélisation et programmation par objets
 ## TD/TP 14 et 16 mars
 [Etudiant+Promotion](https://github.com/laitlito/HA8403I/tree/main/Etudiant) <br>
 [Poste+Sac postal](https://github.com/laitlito/HA8403I/tree/main/PosteLaponie)
+
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
